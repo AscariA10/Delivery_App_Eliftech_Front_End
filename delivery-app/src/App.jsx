@@ -1,4 +1,4 @@
-import { SharedLayout } from './components/SharedLayout';
+import { SharedLayout } from './components/SharedLayout/SharedLayout';
 import { Routes, Route } from 'react-router-dom';
 import { Shop } from './pages/Shop';
 import { ShoppingCart } from './pages/ShoppingCart';
